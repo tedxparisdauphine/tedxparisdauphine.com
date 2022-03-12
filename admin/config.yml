@@ -71,7 +71,7 @@ collections:
     slug: "{{year}}"
     format: yaml-frontmatter
     extension: md
-    editor:
+    
          preview: false
     fields:
       - label: "Année"
