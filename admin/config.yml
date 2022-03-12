@@ -37,7 +37,7 @@ collections:
 
   - label: "Vidéos"
     name: "videos"
-display_url: "https://tedxuniv.netlify.app"
+display_url: "https://tedxuniv.netlify.app/admin"
 
 collections:
 
