@@ -4,7 +4,7 @@ backend:
 
 media_folder: "assets/images/uploads"
 
-display_url: "https://tedxuniv.netlify.app/admin"
+display_url: "https://tedxuniv.netlify.app"
 
 collections:
 
@@ -37,7 +37,7 @@ collections:
 
   - label: "Vidéos"
     name: "videos"
-display_url: "https://tedxuniv.netlify.app/admin"
+display_url: "https://tedxuniv.netlify.app"
 
 collections:
 
