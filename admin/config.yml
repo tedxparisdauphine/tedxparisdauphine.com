@@ -4,7 +4,7 @@ backend:
 
 media_folder: "assets/images/uploads"
 
-display_url: "https://tedxuniv.netlify.app"
+display_url: "https://tedxuniv.netlify.app/admin"
 
 collections:
 
